@@ -1,5 +1,5 @@
 #! /bin/bash
-
+set -e
 read -p "Item name: " ITEM_NAME
 read -p "Version: " VERSION
 PUBLISHER=$(echo $ITEM_NAME | cut -d '.' -f 1)
