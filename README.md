@@ -10,8 +10,8 @@ For downloading the [Python](https://marketplace.visualstudio.com/items?itemName
 
 > https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
-The version can be found on the right side under **More Info** section:
+The _version_ can be found on the right side under _More Info_ section:
 
 ![More Info location](./assets/SCR-20230117-vg2.png)
 
-Once you provide this info, it will create the download URL and will donwload the file to the current location.
+Once you provide this info, it will create the download URL and will download the file to the current location.
