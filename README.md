@@ -1,4 +1,4 @@
-# VSIX Donwloader
+# VSIX Downloader
 
 The [vsix-downloader.sh](./vsix-downloader.sh) script allows you to download the _.vsix_ file installer of any [VSCODE](https://code.visualstudio.com) plugin.
 
